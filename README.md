@@ -54,14 +54,21 @@ Below are some visual previews of the app interface and features:
 
 ---
 
-## API integration which shows different disease information in the etails view
+## BMI Calculation
+<p align="center">
+  <img src="ScreenShots/asdf.png" width="35%" />
+ 
+</p>
+
+---
+
+## API integration which shows different disease information in the details view
 <p align="center">
   <img src="ScreenShots/7_navigation_drawer.png" width="30%" />
   <img src="ScreenShots/18_single_info.jpeg" width="30%" />
 </p>
 
 ---
-
 
 
 
